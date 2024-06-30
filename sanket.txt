@@ -1,0 +1,1 @@
+This the txt file which we need to copy to S3 bucket.
